@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ADOS Software & Diseño</title>
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="http://www.ados-software.com/favicon.ico"> 
+<link href="../bs/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="../css/estilos.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<!-- MENU INICIO CABECERA   -->
+    <header class="bg_header">
+    	<div class="container">
+	    	<h4><small><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Telefonos: +57 6430881 Cel. 317 5035033</small></h4>
+        </div>
+    </header>
+
+    <nav class="navbar navbar-default navbar-static-top no-margin">
+      <div class="container">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><img src="../bs/img/logo.png" width="100"></a>
+          </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="../index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> INICIO<span class="sr-only">(current)</span></a></li>
+              
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span>  ACERCA DE... <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="../presentacion.html">Presentacion</a></li>                  
+                  <li><a href="../profesionales.html">Equipo de Profesionales</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../referencias.html">Referencias</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../valores_derechos.html">Valores y Derechos</a></li>
+                </ul>
+              </li>
+              
+              <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> SERVICIOS<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="../soporte.html">Soporte</a></li>
+                  <li><a href="../seguridad.html">Seguridad</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../grafico.html">Diseño Grafico</a></li>
+                  <li><a href="../corporativo.html">Imagen Corporativa</a></li>
+                  <li><a href="../fotografia.html">Fotografia</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../paginasweb.html">Diseño Web</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../marketing.html">Marketing Digital</a></li>
+                </ul>
+              </li>
+              
+              <li><a href="../software.html"><span class="glyphicon glyphicon-th-large" aria-hidden="true"></span> SOFTWARE</a></li>
+              
+              <li><a href="../contactenos.html"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> CONTACTENOS</a></li>
+              
+            </ul>
+            
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+        </div>
+      </nav>
+
+  <!-- FIN MENU   -->
+  
+  <!-- ********************************** -->
+  <!--         INICIO CONTENIDO           -->
+  <!-- ********************************** --><!-- TemplateBeginEditable name="contenido" -->
+  
+  contenido
+  
+  
+  <!-- TemplateEndEditable -->
+
+  
+  <!-- ********************************** -->
+  <!--            FIN CONTENIDO           -->
+  <!-- ********************************** -->
+  
+  
+<!-- PIE DE PAGINA -->
+
+<footer class="pie">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-3 col-lg-3">
+      	         <div class="page-header">
+			                <h3>Servicios</h3>
+                            
+		             </div> 
+                     <ul class="list-group">
+                      <li class="list-group-item bg_pie"><a href="../grafico.html"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Diseño Web</a></li>
+                      <li class="list-group-item bg_pie"><a href="../corporativo.html"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> Diseño Corporativo</a></li>
+                      <li class="list-group-item bg_pie"><a href="../software.html"><span class="glyphicon glyphicon-th-large" aria-hidden="true"></span> Software</a></li>
+                      <li class="list-group-item bg_pie"><a href="../seguridad.html"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Seguridad</a></li>
+                      <li class="list-group-item bg_pie"><a href="../soporte.html"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Soporte</a></li>
+                      <li class="list-group-item bg_pie"><a href="../fotografia.html"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Fotografia</a></li>
+                      <li class="list-group-item bg_pie"><a href="../marketing.html"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span> Marketing</a></li>
+                    </ul>      
+            </div><!-- fin col-sm-5 -->
+            <div class="col-sm-6 col-md-3 col-lg-3">
+	               <div class="page-header">                  
+			               <h3>Redes Sociales</h3>                           
+		           </div>        
+                   <!-- PAgina de FAcebook -->
+                           <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.3&appId=1463871340505686";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+                           
+                           <div class="fb-page" data-href="https://www.facebook.com/adossoftware" data-width="350" data-height="400" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/adossoftware"><a href="https://www.facebook.com/adossoftware">Ados Software &amp; Diseño</a></blockquote></div></div>
+                           <!-- fin de pagina facebook -->
+            </div><!-- fin col-sm-5 -->
+            <div class="col-sm-6 col-md-3 col-lg-3">
+      	       <div class="page-header">
+
+			             <h3>Contactenos</h3>
+		           </div>
+                   <ul class="list-group">
+                    <li class="list-group-item bg_pie"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> +57 6430881</li>
+                    <li class="list-group-item bg_pie"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span> +57 3175035033</li>
+                    <li class="list-group-item bg_pie"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> soporte@ados-software.com</li>
+                    <li class="list-group-item bg_pie"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> facebook.com/adossoftware</li>
+                    <li class="list-group-item bg_pie"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Cartagena - Colombia</li>
+                  </ul>        
+            </div><!-- fin col-sm-5 -->
+            <div class="col-sm-6 col-md-3 col-lg-3">        
+                <div class="page-header">
+		              <h3>Cotizaciones</h3>
+                      
+	              </div>
+                <div class="well well-sm">
+                    <!-- FORMULARIO DE COTIZACIONES -->
+                    <form method="POSt" name="fcotizaciones" id="fcotizaciones" action="./">
+                            <div class="form-group">
+                              <label for="exampleInputtext1">Nombre</label>
+                              <input type="text" class="form-control" id="nombre" placeholder="Nombre" name="nombre">
+                            </div>
+                            <div class="form-group">
+                              <label for="exampleInputtext1">Empresa</label>
+                              <input type="text" class="form-control" id="empresa" placeholder="Empresa" name="empresa">
+                            </div>
+                            <div class="form-group">
+                              <label for="exampleInputEmail1">Email</label>
+                              <input type="email" class="form-control" id="mail" placeholder="mail@ejemplo.com" name="mail">
+                            </div>
+                            <div class="form-group">
+                              <label for="exampleInputPassword1">Mensaje</label>
+                              <textarea class="form-control" rows="3" id="mensaje" placeholder="Mensaje" name="mensaje"></textarea>
+                            </div>
+                            <!-- <button type="submit" class="btn btn-default">Enviar</button> -->
+                            <button type="submit" class="btn btn-default btn-md" data-toggle="modal" data-target="#myModal">
+                                  Enviar
+                            </button>
+
+                                            <!-- Modal -->
+                                            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                              <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                  <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">Cotizacion</h4>
+                                                  </div>
+                                                  <div class="modal-body" id="respuesta" style="display: none;">
+                                                    
+                                                  </div>
+                                                  <div class="modal-footer">
+                                                    <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+                                                    
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div><!-- fin Modal -->
+                    </form><!--FIN FORMULARIO -->
+                </div>
+            </div><!-- fin col-sm-5 -->
+        </div><!-- fin pie de PIE ROW -->
+    </div><!-- fin pie de PIE CPNTENEDOR -->
+</footer>
+<footer class="bg_color">
+		<div class="container">
+			<h5 class="text_center"><small>Ados Software & Diseño 
+Copyright (c) 2013 Todos los Derechos Reservados 
+Politicas de Privacidad</small></h5>
+		</div>
+</footer>
+
+
+<!-- FIN PIE DE PAGINA-->
+
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="../bs/js/bootstrap.js"></script>
+<script src="../js/custom.js"></script>
+</body>
+</html>

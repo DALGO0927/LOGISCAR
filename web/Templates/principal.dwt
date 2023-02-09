@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ADOS Software & Diseño</title>
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="http://www.unidaddepatologiaclinica.com/favicon.ico"> 
+<link href="../bs/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="../css/estilos.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<!-- MENU INICIO CABECERA   -->
+    <header class="bg_header">
+    	<div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-md-8  img_titulo">
+              <img src="../imagenes/logo.png" class="img-responsive">
+            </div>
+            
+            <div class="col-sm-4 col-md-4 hidden-xs">
+              <!--<address class="texto_der">
+                  <h4><small class="texto_direccion"><span class="glyphicon glyphicon-phone-alt color_icono" aria-hidden="true"></span> PBX: <strong>(57 1) 5514306</strong></small>
+                  <small class="texto_direccion"> - Fax: <strong>(57 1) 5515547</strong></small></h4>
+                  <h4><small class="texto_direccion"><span class="glyphicon glyphicon-phone color_icono" aria-hidden="true"></span> Cel.: <strong>316 8321795</strong></small></h4>
+                  <h4><small class="texto_direccion"><span class="glyphicon glyphicon-envelope color_icono" aria-hidden="true"></span> ventas@torfinoxrym.net</small></h4>
+              </address> -->
+            </div>
+        </div>
+
+	    	
+      </div>
+    </header>
+
+    <!-- MENU PRINCIPAL-->
+      <nav class="navbar navbar-default navbar-static-top no-margin bg_shadow">
+          <div class="container">
+            <div class="container-fluid">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../index.html"><span class="glyphicon glyphicon-home icono_inicio" aria-hidden="true"></span></a>
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav ">
+                      <li class="divider-vertical"></li>
+                      <li><a href="../nosotros.html">Nosotros</a></li>
+                      <li class="divider-vertical"></li>
+                      <li>
+                      	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Servicios<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="citologia.html">Citologia</a></li>
+                                <li><a href="patologia.html">Patologia</a></li>
+                                <li class="divider"></li>
+                                <li><a href="laboratorio_clinico.html">Laboratorio Clinico</a></li>
+
+                            </ul>
+                      </li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="../tecnologia.html">Tecnologia</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="../empresas.html">Empresas</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="../resultados.html">Resultados</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="../contactenos.html">Contactenos</a></li>
+                      <li class="divider-vertical"></li>
+                  </ul>
+              </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+          </div>
+      </nav>
+      <!-- FIN MENU   -->
+  <!-- ********************************** -->
+  <!--         INICIO CONTENIDO           -->
+  <!-- ********************************** -->
+  <!-- TemplateBeginEditable name="Contenido" -->
+  
+  Contenido
+  
+  <!-- TemplateEndEditable -->
+
+<!-- ********************************** -->
+  <!--         FIN CONTENIDO           -->
+  <!-- ********************************** -->
+<div class="page-header bg_color">
+          <h1 class="text_center">...</h1>          
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail thumbnail-bg-none">
+                <h1><small class="texto_articulos">Noticias</small></h1>            
+                <!-- ****************************** 
+                *****   INICIO NOTICIAS ***********
+                ***********************************-->
+                <!-- TemplateBeginEditable name="Noticias" -->
+                	Noticias
+				<!-- TemplateEndEditable -->
+
+
+                <!-- ****************************** 
+                *****   FIN NOTICIAS ***********
+                ***********************************-->
+                
+               
+          </div>
+        </div>
+       
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail thumbnail-bg-none">
+                <h1><small class="texto_articulos">Nuestras Sedes</small></h1>
+                <address>
+                  <h4>Laboratorio de patología y Citología Unidad de Patología Clínica<br><small>Bocagrande Calle 5ª No 6A-19 – Centro Medico Boca grande, 5to. piso Cons. 507 <br>Tel. 6656120 – 6652898 – Cel 312 6598227</small></h4>
+                </address>
+                <address>
+                  <h4>Laboratorio Clínico 24 horas Unidad de Patología Clínica<br><small>Amberes Calle 30 38-20 Clínica Maternidad Rafael calvo. <br>Tel.: 6722077</small></h4>
+                </address>
+                <address>
+                  <h4>Laboratorio Clínico Médico<br><small>Bocagrande Cra 3 8-177 Cons 205 Maternidad de Bocagrande, <br>Tel 6569300 EXT 12</small></h4>
+                </address>
+                <address>
+                  <h4>Sede Administrativa<br><small>Bocagrande calle 5 #6-47<br> tel: 6658208 – cel. 312 6598226 <br>De 7:00a.m. - 12m y de 2:00 m. – 5 p.m.</small></h4>
+                </address>
+                <address>
+                  <h4>Toma de Muestra<br><small>Escallonvilla, Calle 31# 56 A-38 - Centro Medico los Ejecutivos Cons. 310 <br>Tel. 6812368</small></h4>
+                </address>
+                      
+                <p><a href="#" class="btn btn-default" role="button">Más Información</a></p>
+               
+            </div>
+        </div>
+        
+    </div>
+</div>
+<!-- FIN ARTICULOS DE INTERES -->
+  
+ 
+  
+  
+<!-- PIE DE PAGINA -->
+
+<footer class="pie">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-3 col-lg-3">
+      	         <div class="page-header">
+			                <h3>Servicios</h3>
+                            
+		             </div> 
+                     <ul class="list-group">
+                      <li class="list-group-item bg_pie"><a href="../patologia.html">Patología</a></li>
+                      <li class="list-group-item bg_pie"><a href="../citologia.html">Citología</a></li>
+                      <li class="list-group-item bg_pie"><a href="../laboratorio_clinico.html">Laboratorio Clínico</a></li>
+                      <li class="list-group-item bg_pie"><a href="../resultados.html">Resultados en Línea</a></li>
+                      
+                    </ul>      
+            </div><!-- fin col-sm-5 -->
+            <div class="col-sm-6 col-md-3 col-lg-3">
+                <div class="page-header">
+                     <h3>Políticas</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-group-item bg_pie"><a href="../politica_privacidad.html">Política de Privacidad</a></li>
+                    <li class="list-group-item bg_pie"><a href="../politica_datos.html">Política de Tratamiento de Datos</a></li>
+                    <li class="list-group-item bg_pie"><a href="http://mail.unidaddepatologiaclinica.com/">Correo Empresarial</a></li>
+                </ul> 
+               
+            </div><!-- fin col-sm-5 -->
+            <div class="col-sm-6 col-md-3 col-lg-3">
+      	       <div class="page-header">
+			             <h3>Certificados</h3>
+               </div>
+               <p>Estamos Certificados con la Norma ISO 9001 - SC-CER194396 </p>
+               <img src="../imagenes/iso9001.png" class="img-responsive">
+            </div><!-- fin col-sm-5 -->
+            <div class="col-sm-6 col-md-3 col-lg-3">
+                 <div class="page-header">
+                     <h3>Redes Sociales</h3>
+                 </div>
+                 <div class="row">
+                        <div class="col-xs-4 col-sm-4 col-md-4">
+                            <img src="imagenes/facebook.png" >
+                        </div>
+                        <div class=" col-xs-4 col-sm-4 col-md-4">
+                            <img src="imagenes/twitter.png" >
+                        </div>
+                        <div class="col-xs-4 col-sm-4 col-md-4">
+                            <img src="imagenes/linkedin.png" >
+                        </div>
+                </div>        
+            </div><!-- fin col-sm-5 -->
+        </div><!-- fin pie de PIE ROW -->
+    </div><!-- fin pie de PIE CPNTENEDOR -->
+</footer>
+<footer class="bg_color">
+		<div class="container">
+			<h5 class="text_center"><small>Ados Software & Diseño 
+Copyright (c) 2015 Todos los Derechos Reservados 
+Politicas de Privacidad</small></h5>
+		</div>
+</footer>
+
+
+<!-- FIN PIE DE PAGINA-->
+
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="../bs/js/bootstrap.js"></script>
+<script src="../js/custom.js"></script>
+</body>
+</html>
